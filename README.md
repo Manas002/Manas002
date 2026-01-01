@@ -15,37 +15,11 @@ Actively seeking entry-level Data Analyst opportunities
 
 **🛠️ Technical Skills**
 
-Programming & Querying
+Programming & Querying : Python (Pandas, NumPy, Matplotlib) , SQL (Joins, Aggregations, Subqueries)
 
-Python (Pandas, NumPy, Matplotlib)
+Data Analytics, Data Cleaning & Validation, Exploratory Data Analysis (EDA), KPI & Metric Design, Trend & Pattern Analysis
 
-SQL (Joins, Aggregations, Subqueries)
-
-Data Analytics
-
-Data Cleaning & Validation
-
-Exploratory Data Analysis (EDA)
-
-KPI & Metric Design
-
-Trend & Pattern Analysis
-
-Visualization & BI
-
-Tableau & Power BI (DAX basics, dashboards)
-
-Excel (Pivot Tables, Lookups)
-
-**📊 What I Do Best**
-
-Convert business questions into analytical problems
-
-Design custom metrics (e.g., revenue efficiency, engagement metrics)
-
-Analyze customer behavior and performance trends
-
-Communicate insights using clear visuals and summaries
+Visualization & BI : Tableau & Power BI (DAX basics, dashboards), Excel (Pivot Tables, Lookups)
 
 **📫 Let’s Connect**
 
