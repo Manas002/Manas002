@@ -31,6 +31,9 @@ Email: trivedi.manas121@gmail.com
 
 GitHub: You’re already here 🙂
 
+Resume: [Manas - DA - Exp.pdf](https://github.com/user-attachments/files/24539993/Manas.-.DA.-.Exp.pdf)
+
+
 <!--
 **Manas002/Manas002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
