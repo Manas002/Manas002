@@ -2,7 +2,7 @@
 
 **📌 About Me**
 
-**M.Tech (Computer Science) – Final Year Student | Data Analytics & Machine Learning**
+**M.Tech (Computer Science) – Final Year Student | Data Analytics & Machine Learning | Researcher**
 
 I am a Data Analyst with hands-on experience in data cleaning, exploratory data analysis, SQL querying, and business-driven insights.
 I enjoy transforming raw data into clear, actionable insights that support decision-making and business growth.
