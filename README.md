@@ -17,7 +17,7 @@ Actively seeking entry-level Data Analyst opportunities
 
 **🛠️ Technical Skills**
 
-Programming & Querying : Python (Pandas, NumPy, Matplotlib) , SQL (Joins, Aggregations, Subqueries)
+Programming & Querying : Python (Pandas, NumPy, Matplotlib, Seaborn) , SQL (Joins, Aggregations, Subqueries)
 
 Data Analytics, Data Cleaning & Validation, Exploratory Data Analysis (EDA), KPI & Metric Design, Trend & Pattern Analysis
 
