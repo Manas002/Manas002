@@ -15,23 +15,25 @@ Focus on business metrics, efficiency, and optimization
 
 Actively seeking entry-level Data Analyst opportunities
 
-**🛠️ Technical Skills**
+### **🛠️ Technical Skills**
 
-Programming & Querying : Python (Pandas, NumPy, Matplotlib, Seaborn) , SQL (Joins, Aggregations, Subqueries)
+**Programming & Querying :** <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/2381cb74-9696-4a4b-8423-88958d15b2c3" />       <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/8ea51df7-07a5-4dba-bf51-43dfeb4a005b" />      <img width="120" height="100" alt="image" src="https://github.com/user-attachments/assets/6c20ac26-cae4-4512-a65a-3e74c0f4136c" />       <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/1c4e4938-d2cf-49a1-973b-bb78dcc92c83" />         <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/73300442-2008-4732-a841-0083c42c358a" />    ,   <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/8f5ffffa-9f7b-4370-a1f8-d3f8fd56e2f5" /> (Joins, Aggregations, Subqueries)
+
 
 Data Analytics, Data Cleaning & Validation, Exploratory Data Analysis (EDA), KPI & Metric Design, Trend & Pattern Analysis
 
-Visualization & BI : Tableau & Power BI (DAX basics, dashboards), Excel (Pivot Tables, Lookups)
+
+**Visualization & BI :** <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ebe47b7b-04fd-41c9-90fa-9e716f7f60b7" />  & <img width="100" height="70" alt="image" src="https://github.com/user-attachments/assets/8f5e222a-f3d1-4a16-b42d-025cf115fddf" />  (DAX basics, dashboards), <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9a146bdf-0ae3-46a7-98b1-44ff467c9dfe" /> (Pivot Tables, Lookups)
 
 **📫 Let’s Connect**
 
-LinkedIn: https://www.linkedin.com/in/manas-trivedi-71165aa6
+**LinkedIn:** https://www.linkedin.com/in/manas-trivedi-71165aa6
 
-Email: trivedi.manas121@gmail.com
+**Email:** trivedi.manas121@gmail.com
 
-GitHub: You’re already here 🙂
+**GitHub:** You’re already here 🙂
 
-Resume: [Manas - DA - Exp.pdf](https://github.com/user-attachments/files/24539993/Manas.-.DA.-.Exp.pdf)
+**Resume:** [Manas - DA - Exp.pdf](https://github.com/user-attachments/files/24539993/Manas.-.DA.-.Exp.pdf)
 
 
 <!--
