@@ -17,7 +17,9 @@ Actively seeking entry-level Data Analyst opportunities
 
 ### **🛠️ Technical Skills**
 
-**Programming & Querying :** <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/2381cb74-9696-4a4b-8423-88958d15b2c3" />       <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/8ea51df7-07a5-4dba-bf51-43dfeb4a005b" />      <img width="120" height="100" alt="image" src="https://github.com/user-attachments/assets/6c20ac26-cae4-4512-a65a-3e74c0f4136c" />       <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/1c4e4938-d2cf-49a1-973b-bb78dcc92c83" />         <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/73300442-2008-4732-a841-0083c42c358a" />    ,   <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/8f5ffffa-9f7b-4370-a1f8-d3f8fd56e2f5" /> (Joins, Aggregations, Subqueries)
+**Programming Languages :** <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/2381cb74-9696-4a4b-8423-88958d15b2c3" />       <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/8ea51df7-07a5-4dba-bf51-43dfeb4a005b" />      <img width="120" height="100" alt="image" src="https://github.com/user-attachments/assets/6c20ac26-cae4-4512-a65a-3e74c0f4136c" />       <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/1c4e4938-d2cf-49a1-973b-bb78dcc92c83" />         <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/73300442-2008-4732-a841-0083c42c358a" />    ,
+
+**Querying Languages :** <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/8f5ffffa-9f7b-4370-a1f8-d3f8fd56e2f5" /> (Joins, Aggregations, Subqueries)
 
 
 Data Analytics, Data Cleaning & Validation, Exploratory Data Analysis (EDA), KPI & Metric Design, Trend & Pattern Analysis
