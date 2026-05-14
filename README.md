@@ -24,7 +24,7 @@ Currently seeking Data Scientist / Data Analyst opportunities.
 
 **🛠 Technical Skills**
 
-Programming : Python (Pandas, NumPy, Scikit-learn)
+Programming : Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 
 Query Languages : SQL (Joins, Aggregations, Subqueries)
 
@@ -40,13 +40,7 @@ Data Cleaning & Preprocessing
 
 Machine Learning (Classification, Regression)
 
-Data Visualization : Power BI (DAX, Dashboards)
-
-Tableau
-
-Matplotlib
-
-Seaborn
+Data Visualization : Power BI (DAX, Dashboards), Tableau
 
 Tools : Git • GitHub • Jupyter Notebook • Azure BAsics
 
